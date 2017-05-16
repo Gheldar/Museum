@@ -3,7 +3,7 @@ INSTALLATION INSTRUCTIONS:
 
 1) Unrar and copy the contents of opensim to a folder of your choice
 
-2) Download and install OpenSim.exe and follow on-screen instructions
+2) Download and install OpenSim
 
 3) After setup completion run the command: load oar [oar's directory without brackets]
 
